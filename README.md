@@ -23,3 +23,8 @@ Washington-CapitalBikeshare-2016.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity Links.
+www.DataCamp.com
+https://www.fullstackpython.com/blog.html
+https://www.quackit.com/python/tutorial/python_read_write_files.cfm
+https://www.w3resource.com/python-exercises/
