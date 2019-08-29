@@ -694,6 +694,7 @@
     "    cal_dur['average_travel']=average_travel\n",
     "    cal_dur['proportion_overtime']=proportion_overtime\n",
     "    print(cal_dur)  "
+    "print(This is Second Commit for Short Trips)"
    ]
   },
   {
