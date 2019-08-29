@@ -638,6 +638,7 @@
     "was_out['cust_ratio']=(float(n_customers)/n_total)*100\n",
     "print('City: Washington \\n')\n",
     "print(was_out)"
+    "print(This is First Commit for Git Project)"
    ]
   },
   {
